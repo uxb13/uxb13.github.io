@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## AI to solve the 2048 puzzle using adversial search
 
 You can use the [editor on GitHub](https://github.com/uxb13/uxb13.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
